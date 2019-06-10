@@ -1,0 +1,6 @@
+C:\Users\svorr\Nextcloud\Development\VS Projects\Typescript\VisualMaths\VisualMaths\obj\Debug\VisualMaths.csprojResolveAssemblyReference.cache
+C:\Users\svorr\Nextcloud\Development\VS Projects\Typescript\VisualMaths\VisualMaths\bin\VisualMaths.dll.config
+C:\Users\svorr\Nextcloud\Development\VS Projects\Typescript\VisualMaths\VisualMaths\bin\VisualMaths.dll
+C:\Users\svorr\Nextcloud\Development\VS Projects\Typescript\VisualMaths\VisualMaths\bin\VisualMaths.pdb
+C:\Users\svorr\Nextcloud\Development\VS Projects\Typescript\VisualMaths\VisualMaths\obj\Debug\VisualMaths.dll
+C:\Users\svorr\Nextcloud\Development\VS Projects\Typescript\VisualMaths\VisualMaths\obj\Debug\VisualMaths.pdb
